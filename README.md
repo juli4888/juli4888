@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @juli4888
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science, machine learning and big data models, market segmentation, data cleaning and processing, statistical analysis, and visualization
+- 🌱 I’m currently learning cloud tools
+- 💞️ I’m looking to collaborate on contact center companies, ecommerce, retail and digital marketing sectors with multidisciplinary teams at a global level, leading several data projects that became actionable for taking data-driven type decisions
+- 📫 How to reach me juli4888@gmail.com
 
-Professional and candidate for a master's degree in Statistics from the National University of Colombia. 
-I have experience in data science, machine learning and big data models, market segmentation, data cleaning and processing, statistical analysis, and visualization. 
-I have experience in the telecommunications, contact center, ecommerce, retail, digital marketing sectors and in Colombian governmental institutions such as DANE, 
-I have worked with multidisciplinary teams at a global level, leading several data projects that became actionable for taking data-driven type decisions.
-
-Certified data scientist by correlation-one, DS4A Colombia.
